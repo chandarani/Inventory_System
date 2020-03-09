@@ -1,0 +1,22 @@
+create table vechile
+(
+vechile_id number primary key,
+power number,
+style varchar(50),
+comfort varchar(50),
+safety varchar(50),
+economy varchar(50),
+engine number,
+chassis number,
+tyre number,
+fuel number,
+electricals varchar(50),
+suspension varchar(50),
+brakes varchar(50),
+reviews varchar(50),
+videos varchar(50),
+comparison varchar(50),
+price number,
+model number,
+brand varchar(50))
+/

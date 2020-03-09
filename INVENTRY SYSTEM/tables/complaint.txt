@@ -1,0 +1,11 @@
+create table compl
+( cmid number primary key,
+name varchar(50),
+addr varchar(50),
+city varchar(50),
+com_date number,
+pur_date number,
+billno number,
+model varchar(50),
+com varchar(50));
+/

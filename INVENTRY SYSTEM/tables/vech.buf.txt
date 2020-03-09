@@ -1,0 +1,24 @@
+create table vech
+(
+vechile_id number primary key,
+color varchar(50),
+indicator number,
+horn number,
+fuel_economy number,
+engine number,
+chassis number,
+wheel number,
+fuel_tank number,
+electricals varchar(50),
+suspension varchar(50),
+brake number,
+headlamp number,
+transmission number,
+battery number,
+performance number,
+dimension number,
+price number,
+model varchar(50),
+brand varchar(50),
+quantity number(30))
+/

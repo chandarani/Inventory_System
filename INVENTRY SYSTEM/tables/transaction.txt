@@ -1,0 +1,16 @@
+create table transaction
+(
+ordr number primary key,
+model varchar(50),
+cust_name varchar(50),
+cust_add varchar(50),
+phone number(10),
+mode_of_payment varchar(50),
+ddno number(10),
+bank_name varchar(50),
+issue_date date,
+cust_id number,
+amount number(10),
+Quantity number(30))
+
+

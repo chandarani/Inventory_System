@@ -1,0 +1,10 @@
+create table cus
+(
+cust_id number primary key,
+cust_name varchar(50),
+cust_address varchar(50),
+cust_ph number,
+email varchar(50),
+add_proof varchar(50),
+mode_of_payment varchar(50))
+/

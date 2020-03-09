@@ -1,0 +1,20 @@
+create table invoice
+(
+mr varchar(50),
+sw varchar(50),
+addp varchar(50),
+addt varchar(50),
+con number(30),
+inv_no number(30) primary key,
+inv_dat date,
+color varchar(50),
+chassis number(30),
+engine number(30),
+reg number(30),
+key number(30),
+batt number(30),
+sale number(30),
+amount number(30),
+csig varchar(50),
+asig varchar(50))
+/

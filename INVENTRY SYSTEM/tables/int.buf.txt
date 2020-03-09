@@ -1,0 +1,16 @@
+create table inti
+(
+name varchar(50),
+father_name varchar(50),
+per_add varchar(50),
+mobile_no number(15),
+model varchar(50),
+color varchar(50),
+engine number(30),
+chassis number(30),
+key number(30),
+cash number(30),
+salesman varchar(50),
+road_price number(30),
+total number(30))
+/
